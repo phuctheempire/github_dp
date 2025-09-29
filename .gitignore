@@ -1,5 +1,7 @@
 data/
 minio_data/
 postgres/
-airflow/
+airflow/*
 !airflow/dags/
+!airflow/dags/**
+
